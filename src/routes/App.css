@@ -1,0 +1,29 @@
+.sidebar {
+  display: flex;
+}
+.header-footer {
+  width: 100%;
+}
+.sidebar-insider {
+  min-height: 607px;
+}
+.post-card {
+  margin: 20px 50px;
+}
+.hashtags {
+  margin: 0px 5px;
+}
+.reactions {
+  margin: 15px 0 0 0;
+}
+.create-post{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+}
+.welcome-msg-h1{
+  margin: 100px 0;
+}
+.spinner{
+  margin: 5% 0;
+}
